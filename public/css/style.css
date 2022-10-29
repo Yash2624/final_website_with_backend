@@ -709,7 +709,7 @@ section:nth-child(even){
 @media (max-width:320px){
 
     #hh {
-        margin-left: 0rem;
+        margin-left: 3rem;
     }
     .header .logo{
         font-size: 1.6rem;
